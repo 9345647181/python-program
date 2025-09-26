@@ -1,0 +1,4 @@
+num1=87367835
+num2=78565
+sum_result=num1+num2
+print("sum the value is:")
